@@ -1,0 +1,21 @@
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup or temporary files
+*.tmp
+*.bak
+*.pbix~*
+
+# Virtual environments
+.venv/
+env/
+venv/
+.env
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
